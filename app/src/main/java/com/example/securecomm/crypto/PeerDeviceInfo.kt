@@ -1,5 +1,3 @@
-package com.example.securecomm.crypto
-
 /**
  * Data class representing peer device information extracted from QR codes
  * Used for simplified routing: Phone → Fusion Node → encrypted message
