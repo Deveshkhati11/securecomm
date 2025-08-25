@@ -1,4 +1,4 @@
-package com.example.mine.crypto
+package com.example.securecomm.crypto
 
 import java.nio.ByteBuffer
 import java.nio.ByteOrder
